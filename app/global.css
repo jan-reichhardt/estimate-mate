@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*noinspection ALL*/
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/fonts/open-sans.ttf') format('truetype'); /* Adjust format based on the font */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*noinspection ALL*/
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/montserrat.ttf') format('truetype'); /* Adjust format based on the font */
+    font-weight: normal;
+    font-style: normal;
+}
